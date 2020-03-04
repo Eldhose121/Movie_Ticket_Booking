@@ -169,11 +169,6 @@ void main()
  clrscr();
  cout<<"\n\n\t\t\t\t *WELCOME*";
  cout<<"\n\n\t\t\t  MOVIE TICKET BOOKING";
- cout<<"\n\n\t\tCreated by:";
- cout<<"\n\t\tAbel Simon Zachariah";
- cout<<"\n\t\tAdith Paul";
- cout<<"\n\t\tAthul Sanjose";
- cout<<"\n\t\tEldhose Saji";
  cout<<"\n\n\n\t\t\tMENU";
  cout<<"\n\n\t\t1.Enter booking";
  cout<<"\n\t\t2.Exit program";
